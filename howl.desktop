@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Howl
+GenericName=File Manager
+Comment=Browse files
+Exec=howl %U
+Icon=system-file-manager
+Terminal=false
+Categories=System;FileTools;FileManager;GTK;
+MimeType=inode/directory;
+StartupNotify=true
+Keywords=folder;manager;explore;disk;filesystem;
